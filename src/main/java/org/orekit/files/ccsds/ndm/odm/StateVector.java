@@ -41,7 +41,7 @@ public class StateVector extends CommentsContainer {
     /** Velocity vector (m/s). */
     private double[] velocity;
 
-    /** Accekeration vector (m/s²). */
+    /** Acceleration vector (m/s²). */
     private double[] acceleration;
 
     /** Create an empty data set.
